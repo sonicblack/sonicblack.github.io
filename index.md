@@ -1,6 +1,6 @@
 # Sonic Black
 
-This is the homepage of Sonic Black.
+"*We rise by lifting others.*" - Robert Ingersoll
 
 ### Some thoughts
 
