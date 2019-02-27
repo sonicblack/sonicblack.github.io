@@ -4,4 +4,4 @@
 
 ### Some thoughts
 
-1. Love [link]
+1. On Love and Marriage ([link](./love.md))
