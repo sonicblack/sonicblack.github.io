@@ -1,9 +1,14 @@
 # Sonic Black
 
 "*We rise by lifting others.*" - Robert Ingersoll 
+
+<div id="quote">
+</div>
 <script type="text/javascript">
 	
  var quotes = ["I am great"];
+ var quotediv = document.getElementById("quote");
+ quotediv.innerHTML = quotes[0]
  
 </script>
 
