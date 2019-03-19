@@ -1,7 +1,4 @@
 # Sonic Black
-
-"*We rise by lifting others.*" - Robert Ingersoll 
-
 <div id="quote_of_the_day">
 	<i id="quote"> </i> - <b id="author"> </b> 
 </div>
@@ -22,7 +19,7 @@
  var author = document.getElementById("author");
  randomIndex = Math.ceil((Math.random() * quotes.length-1));
  quote.innerHTML = quotes[randomIndex].quote
- author.innerHTML = quotes[randomIndex].quote
+ author.innerHTML = quotes[randomIndex].author
 </script>
 
 ### Some thoughts
