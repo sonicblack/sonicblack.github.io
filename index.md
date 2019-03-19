@@ -9,7 +9,6 @@
  var quotes = ["I am great"];
  var quotediv = document.getElementById("quote");
  quotediv.innerHTML = quotes[0]
- 
 </script>
 
 ### Some thoughts
