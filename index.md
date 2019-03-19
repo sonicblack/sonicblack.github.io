@@ -14,6 +14,10 @@
 		quote: "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just.",
 		author: "Abraham Lincoln",
 	},
+	{
+		quote: "I have always found that mercy bears richer fruits than strict justice.",
+		author: "Abraham Lincoln",
+	},
 ];
  var quote = document.getElementById("quote");
  var author = document.getElementById("author");
