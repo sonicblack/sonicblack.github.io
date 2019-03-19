@@ -1,4 +1,10 @@
 # Sonic Black
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async>
+</script>
+
+<p> \(a = \frac{b}{c} \) </p>
+
 <div id="quote_of_the_day">
 	<i id="quote"> </i> - <b id="author"> </b> 
 </div>
