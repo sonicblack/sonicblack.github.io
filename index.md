@@ -1,6 +1,11 @@
 # Sonic Black
 
-"*We rise by lifting others.*" - Robert Ingersoll
+"*We rise by lifting others.*" - Robert Ingersoll 
+<script type="text/javascript">
+	
+ var quotes = ["I am great"];
+ 
+</script>
 
 ### Some thoughts
 
