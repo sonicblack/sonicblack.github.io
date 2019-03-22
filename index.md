@@ -36,7 +36,7 @@ Homepage of Sonic Black.
 		author: "Mahatma Gandhi",
 	},
 	{
-		quote: "Those who deny freedom to others, deserve it not for themselves."
+		quote: "Those who deny freedom to others, deserve it not for themselves.",
 		author: "Abraham Lincoln",
 	},
 	{
