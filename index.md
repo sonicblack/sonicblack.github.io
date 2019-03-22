@@ -1,5 +1,4 @@
 # Sonic Black
-Homepage of Sonic Black. Hello!
 <div id="quote_of_the_day">
 	<i id="quote"> </i> - <b id="author"> </b> 
 </div>
