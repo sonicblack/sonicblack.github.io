@@ -50,7 +50,6 @@
 		quote: "It is not what you are, but what you want to be that determines your character.",
 		author: "Unknown",
 	},
-	
 ];
  var quote = document.getElementById("quote");
  var author = document.getElementById("author");
