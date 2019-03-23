@@ -50,6 +50,10 @@
 		quote: "It is not what you are, but what you want to be that determines your character.",
 		author: "Unknown",
 	},
+	{
+		quote: "The pinnacle of mankind is not its intellect that crosses galaxies, but its empathy that transcends across species.",
+		author: "Unknown",
+	},
 ];
  var quote = document.getElementById("quote");
  var author = document.getElementById("author");
