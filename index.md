@@ -1,4 +1,4 @@
-# Sonic Black
+# Sonic Black [i.am.sonic.black@gmail.com]
 <div id="quote_of_the_day">
 	<i id="quote"> </i> - <b id="author"> </b> 
 </div>
