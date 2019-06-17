@@ -1,4 +1,4 @@
-# Sonic Black [i.am.sonic.black@gmail.com]
+# Sonic Black
 <div id="quote_of_the_day">
 	<i id="quote"> </i> - <b id="author"> </b> 
 </div>
@@ -69,3 +69,7 @@
 3. Rogan Josh ([link](./rogan.md))
 4. To be righteous ([link](./righteous.md))
 5. Matters of the mind ([link](./mind.md))
+
+### Contact
+email: `i.am.sonic.black@gmail.com`
+
